@@ -22,7 +22,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="#">Demo Pusher Web App</a>
+          <a class="navbar-brand" href="#">Ty's Pusher Web App</a>
         </div>
 
         <div class="collapse navbar-collapse">
